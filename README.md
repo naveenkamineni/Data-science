@@ -1,5 +1,3 @@
----
-
 # 📚 Data Science From Scratch
 
 **Welcome to my Data Science journey from scratch!** 🚀
