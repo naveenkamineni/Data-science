@@ -2,7 +2,7 @@
 
 **Welcome to my Data Science journey from scratch!** 🚀
 
-Data Science is built on strong **mathematical concepts** such as **Linear Algebra, Calculus, Probability, and Statistics**.  
+Data Science is a part of ** Mathematical representation concepts** such as **Linear Algebra, Calculus, Probability, and Statistics**.  
 By combining these concepts with **programming**, we can **analyze patterns in data** and **predict future events** based on past trends.
 
 Popular **Machine Learning algorithms** like **Linear Regression** and **Logistic Regression** help us study historical data and make accurate predictions.  
@@ -15,6 +15,9 @@ Today, the most advanced AI models use the **Transformer architecture**, which p
 Through Data Science, Machine Learning, and Deep Learning, we are building technologies that **transform how the world works**.
 
 ---
+
+![image](https://github.com/user-attachments/assets/85915836-ff53-42d5-8c2f-3512bdfa6934)
+
 # 🌟 First Step to Learn Data Science
 
 **👉 Step 1: Understand the Core Concepts.**
@@ -57,7 +60,7 @@ Because raw data is messy! Before you can build smart models, you need to make t
 ---
 
 # 🔥 In simple words:  
-> First, Understand**the math** Concepts, and Learn to **code**, and **how to handle data**.  
+> First, Understand **the math** Concepts, and Learn to **code**, and **how to handle data**.  
 > Once you're comfortable, you can move on to **Machine Learning**, **Deep Learning**, and **Big Data**.
 
 ---
