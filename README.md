@@ -1,5 +1,3 @@
-Of course! Here’s your information rewritten to be **more understandable, meaningful, beginner-friendly**, and still **true to your original thoughts** — perfect for your **GitHub README**:
-
 ---
 
 # 📚 Data Science From Scratch
