@@ -3,7 +3,7 @@
 **Welcome to my Data Science journey from scratch!** 🚀
 
 Data Science is a part of ** Mathematical representation concepts** such as **Linear Algebra, Calculus, Probability, and Statistics**.  
-By combining these concepts with **programming**, we can **analyze patterns in data** and **predict future events** based on past trends.
+By combining these concepts with **programming**, we can **analyze patterns in data** and **predict future events** based on past trends with popular python libraries such as **Numpy**, **Pandas** or Traditional Excel formulas to clean data.
 
 Popular **Machine Learning algorithms** like **Linear Regression** and **Logistic Regression** help us study historical data and make accurate predictions.  
 These techniques allow us to solve **real-world problems** across different industries — from healthcare and finance to agriculture and technology.
