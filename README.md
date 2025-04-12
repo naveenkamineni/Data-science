@@ -15,12 +15,6 @@ Today, the most advanced AI models use the **Transformer architecture**, which p
 Through Data Science, Machine Learning, and Deep Learning, we are building technologies that **transform how the world works**.
 
 ---
-
-That's a great question — and honestly, it's where everyone's real journey into Data Science begins! 🚀  
-Let me break it down **clearly** for you:
-
----
-
 # 🌟 First Step to Learn Data Science
 
 **👉 Step 1: Understand the Core Concepts.**
