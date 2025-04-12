@@ -57,7 +57,7 @@ Because raw data is messy! Before you can build smart models, you need to make t
 ---
 
 # 🔥 In simple words:  
-> First, learn **the math**, **the code**, and **how to handle data**.  
+> First, Understand**the math** Concepts, and Learn to **code**, and **how to handle data**.  
 > Once you're comfortable, you can move on to **Machine Learning**, **Deep Learning**, and **Big Data**.
 
 ---
