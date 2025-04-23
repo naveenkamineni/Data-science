@@ -145,6 +145,28 @@ Optimization is the process of tuning model parameters to minimize error or maxi
 | Probability & Stats| Distributions, Bayes, Hypothesis    | Prediction, inference, decision making                     |
 | Optimization       | Gradient Descent, Loss Functions    | Model tuning, improving accuracy                           |
 
+Here’s the updated version with examples added for each Python library:
+
+---
+
+# Python Libraries for Data Science, Machine Learning, and AI
+
+| Library       | What is it?                                                                 | When to Use?                                                                                              | Example                                                                                                             |
+|---------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **NumPy**     | A core library for numerical computations in Python.                         | Use for numerical operations, array/matrix manipulations, and as a base for many other libraries.        | ```import numpy as np<br>arr = np.array([1, 2, 3, 4])<br>print(np.mean(arr))```                                        |
+| **SciPy**     | Built on NumPy; provides advanced scientific functions.                      | Use for optimization, integration, interpolation, and solving differential equations.                    | ```from scipy.optimize import minimize<br>result = minimize(lambda x: x**2, 0)<br>print(result.x)```                 |
+| **pandas**    | Data manipulation and analysis library.                                      | Use when working with structured data (like tables) to clean, transform, and analyze datasets.           | ```import pandas as pd<br>df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})<br>df['C'] = df['A'] + df['B']```             |
+| **Matplotlib**| A plotting library for visualizing data in charts and graphs.                | Use when you need line plots, histograms, bar charts, scatter plots, etc.                               | ```import matplotlib.pyplot as plt<br>x = [1, 2, 3, 4]<br>y = [10, 20, 25, 30]<br>plt.plot(x, y)<br>plt.show()```     |
+| **Seaborn**   | A statistical data visualization library based on Matplotlib.                | Use for beautiful and easy-to-understand visualizations with less code, especially for data exploration.  | ```import seaborn as sns<br>tips = sns.load_dataset('tips')<br>sns.scatterplot(x='total_bill', y='tip', data=tips)``` |
+| **Scikit-learn** | A machine learning library for classic ML algorithms.                     | Use for classification, regression, clustering, model evaluation, and data preprocessing.                | ```from sklearn.datasets import load_iris<br>from sklearn.model_selection import train_test_split<br>iris = load_iris()<br>X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.2)``` |
+| **TensorFlow**| An end-to-end open-source platform for ML and deep learning.                 | Use when building large-scale deep learning models and deploying them in production.                     | ```import tensorflow as tf<br>model = tf.keras.Sequential([tf.keras.layers.Dense(10, activation='relu')])<br>model.summary()``` |
+| **PyTorch**   | A deep learning framework with dynamic computation graphs.                   | Use for research and production in deep learning with flexibility and simplicity.                        | ```import torch<br>x = torch.tensor([1.0, 2.0, 3.0])<br>y = x**2<br>print(y)```                                    |
+| **OpenCV**    | Open Source Computer Vision Library.                                         | Use for image processing, computer vision tasks (like object detection, face recognition, etc.).        | ```import cv2<br>img = cv2.imread('image.jpg')<br>gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)<br>cv2.imshow('Gray Image', gray)<br>cv2.waitKey(0)``` |
+
+---
+
+Let me know if you'd like to add more examples or modify the content further!
+
 
 
 
